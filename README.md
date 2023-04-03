@@ -1,6 +1,7 @@
 # Sistema-de-embalagens
 Projeto de sistema do grupo HELICE
-Java-MariaDB
+
+(Java-MariaDB)
 
 Foi feito pensando em uma empresa de alimentos em São Paulo, pedido por uma engenheira de alimentos da empresa.
 Fizemos esse grupo para realizar esse projeto que cumpria uma necessidade muito específica na empresa.
